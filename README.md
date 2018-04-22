@@ -27,7 +27,7 @@
 
 **Client Side**
 
-- [preac](https://github.com/developit/preact) with thier bros _preact-router preact-redux_
+- [preact](https://github.com/developit/preact) with thier bros _preact-router preact-redux_
 - [axios](https://github.com/axios/axios)
 - webpack & babel 
 - other great PWA babel loaders
