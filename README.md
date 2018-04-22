@@ -10,7 +10,7 @@
 
 ---
 
-## I'm using these great thing
+## I'm using these great things
 
 **Server Side**
 
@@ -31,3 +31,6 @@
 - [axios](https://github.com/axios/axios)
 - webpack & babel 
 - other great PWA babel loaders
+
+
+> Contect me if you need some thing
