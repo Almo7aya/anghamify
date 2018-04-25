@@ -26,7 +26,8 @@
 
 > That's how your music library will look like! using [Pulsar+](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar.pro&hl=en) Player
 
-<img src="https://f.top4top.net/p_845q36cv1.png" width="290"><img src="https://a.top4top.net/p_845ufeef2.png" width="290"><img src="https://b.top4top.net/p_845z445e3.png" width="290">
+
+<img src="https://b.top4top.net/p_845z445e3.png" width="290"><img src="https://a.top4top.net/p_845ufeef2.png" width="290"><img src="https://f.top4top.net/p_845q36cv1.png" width="290">
 
 ---
 
