@@ -8,6 +8,22 @@
 
 > This application is a presonal project and it's only for education purpose, I know this is illegal but Anghami is a great sandbox _"AS I SEE"_ to learn real world things, I won't share the source code publicly, but I may contact Anghami to fix their issues.
 
+- Downloading song from [Anghami](https://play.anghami.com) in MP3 format using Anghami's APIs.
+
+- You can search for song by entering its artist or song name or both, It's dependen on Agnahmi search APIs.
+
+- Automatically applies metadata to the downloaded song which include:
+
+  - Title
+  - Artist
+  - Album
+  - Lyrics (if found on http://lyrics.wikia.com)
+  - Album artist
+  - Genre
+  - Track number
+  - Release date
+  - And more...
+
 ---
 
 ## I'm using these great things
@@ -33,4 +49,4 @@
 - other great PWA babel loaders
 
 
-> Contect me if you need some thing
+> Contect me if you need some helps
