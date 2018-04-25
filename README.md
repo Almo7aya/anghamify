@@ -2,7 +2,7 @@
 
  **See it live** [Here](https://anghamify.cf) 🎧️
 
-**Now you can download International songs** 🗺️
+**Now you can download International songs** 🗺️ :earth_asia:
 
 ---
 
