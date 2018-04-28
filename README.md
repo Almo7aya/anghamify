@@ -1,6 +1,7 @@
 # Anghamify 🍅
 
- **See it live** [Here](https://anghamify.cf) 🎧️
+ **See it live** <a href="https://anghamify.cf" target="_blank">Here</a> 🎧️
+ 
 
 **Now you can download International songs** 🗺️ :earth_asia:
 
