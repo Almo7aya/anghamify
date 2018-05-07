@@ -1,8 +1,9 @@
 # Anghamify 🍅
 
- **See it live** [Here](https://anghamify.cf) 🎧️
+ **See it live** <a href="https://anghamify.cf" target="_blank">Here</a> 🎧️
+ 
 
-**Now you can download International songs** 🗺️
+**Now you can download International songs** 🗺️ :earth_asia:
 
 ---
 
@@ -53,6 +54,6 @@
 - [preact](https://github.com/developit/preact) with thier bros _preact-router preact-redux_ ⚛️
 - [axios](https://github.com/axios/axios)
 - webpack & babel 🐟️
-- other great PWA babel loaders
+- other great PWA babel loaders & plugins
 
 > Contect me if you need some help 🏈
