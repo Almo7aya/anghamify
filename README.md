@@ -20,7 +20,7 @@
   - Title
   - Artist
   - Album
-  - Lyrics (if found on http://lyrics.wikia.com)
+  - Lyrics ~~(if found on http://lyrics.wikia.com)~~ if Anghami provides it
   - Album artist
   - Genre
   - Track number
