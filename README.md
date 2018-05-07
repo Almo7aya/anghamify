@@ -40,11 +40,11 @@
 - [express](https://github.com/expressjs/express)
 - [bluebird](https://github.com/petkaantonov/bluebird)
 - [axios](https://github.com/axios/axios)
-- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) Some dirty work 😂
+- ~~[http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) Some dirty work 😂~~
 - [lodash](https://github.com/lodash/lodash)
 - [node-id3](https://github.com/aadsm/node-id3)
 - [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
-- [lyric-get](https://github.com/rhnvrm/lyric-api) Great one to get lyrics 💟
+- ~~[lyric-get](https://github.com/rhnvrm/lyric-api) Great one to get lyrics 💟~~ __I made my own__
 - [ejs](https://github.com/mde/ejs) For SSR some html
 
 
