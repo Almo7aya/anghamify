@@ -1,5 +1,6 @@
 # Anghamify 🍅
 [![Build Status](https://anghamify.cf/travis-ci)](https://travis-ci.org/shadowsocks/shadowsocks-android)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
  **See it live** <a href="https://anghamify.cf" target="_blank">Here</a> 🎧️
  
