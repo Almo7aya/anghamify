@@ -1,7 +1,5 @@
-[![Build Status](https://anghamify.cf/travis-ci)](https://travis-ci.org/shadowsocks/shadowsocks-android)
-
-
 # Anghamify 🍅
+[![Build Status](https://anghamify.cf/travis-ci)](https://travis-ci.org/shadowsocks/shadowsocks-android)
 
  **See it live** <a href="https://anghamify.cf" target="_blank">Here</a> 🎧️
  
