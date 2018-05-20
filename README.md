@@ -7,6 +7,8 @@
 
 **Now you can download International songs** 🗺️ :earth_asia:
 
+**Now you can download high quality songs** ✈️
+
 ---
 
 ## Note to 🤐
@@ -41,6 +43,7 @@
 **Server Side**
 
 - [express](https://github.com/expressjs/express)
+- [node_redis](https://github.com/NodeRedis/node_redis)
 - [bluebird](https://github.com/petkaantonov/bluebird)
 - [axios](https://github.com/axios/axios)
 - ~~[http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) Some dirty work 😂~~
