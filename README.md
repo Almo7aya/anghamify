@@ -10,6 +10,11 @@
 **Now you can download high quality songs** ✈️
 
 ---
+## Are you a developer 👀?
+
+You can use Anghamify APIs to bulid awesome music app so this may help you [Anghamify APIs Docs](https://github.com/Almo7aya/anghamify/blob/master/anghamify-apis-docs.pdf)
+
+--- 
 
 ## Note to 🤐
 
